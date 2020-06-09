@@ -1,0 +1,40 @@
+h1{
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-weight: bold;
+}
+.outdiv{
+  border: 3px solid white;
+  padding: 20px 200px;
+  margin: auto;
+}
+.outspan{
+  vertical-align: middle;
+  display: table-row-group;
+  background: yellow;
+  align-items: center;
+}
+.first, .second, .third, .four, .five{
+  height:200px;
+  padding: 100px;
+  margin: 10px 10px;
+  display: table-cell;
+  vertical-align: inherit;
+  border-spacing: inherit;
+  border: 6px solid white;
+}
+.first{
+  background-color: #247BA0;
+}
+.second{
+  background-color: #70C1B3;
+}
+.third{
+  background-color: #B2DBBF;
+}
+.four{
+  background-color: #F3FFBD;
+}
+.five{
+  background-color: #FF1654;
+}
